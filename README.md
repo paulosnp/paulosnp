@@ -19,10 +19,10 @@
 
 <div align="center">
 <a href="https://github.com/paulosnp/Studies">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=paulosnp&show_icons=true&theme=transparent" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=paulosnp&show_icons=true&theme=outrun" />
 </a>
 <a href="https://github.com/paulosnp/Studies">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosnp&layout=compact&theme=transparent" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosnp&layout=compact&theme=outrun" />
 </a>
 </div>
 
