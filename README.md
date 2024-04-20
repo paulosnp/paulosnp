@@ -11,13 +11,10 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Emerson-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  
-##
-  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ0YXQxbGVmMWJlOThoNnhzOWRtNGQ4bG9lY3hjY2Y0dGZwa2N5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif">  
 </div>
 
-
+##
 
 <div>
   <a href="https://instagram.com/paulo.snp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
