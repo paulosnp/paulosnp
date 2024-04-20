@@ -14,7 +14,7 @@
   
 ##
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR1cTlrNHdqajE2eDRiNnlkbXh1MzRqYmcyNHZlZGhmNTl3NTYwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif">  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ0YXQxbGVmMWJlOThoNnhzOWRtNGQ4bG9lY3hjY2Y0dGZwa2N5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif">  
 </div>
 
 
