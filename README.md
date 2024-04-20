@@ -3,16 +3,19 @@
 - 📨 **Contact:** *paulocardoso64h@gmail.com*
 - 😄 **Pronouns:** *He/him. Ele/dele.*
 
-<div align="center">
-  <a href="https://github.com/paulosnp">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Emerson-javax&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosnp&layout=compact&langs_count=7&theme=merko"/>
-</div>
+<a href="https://github.com/paulosnp/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=paulosnp&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/paulosnp/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosnp&layout=compact&theme=transparent" />
+</a>
+
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Emerson-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ0YXQxbGVmMWJlOThoNnhzOWRtNGQ4bG9lY3hjY2Y0dGZwa2N5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif">  
 </div>
+
 
 ##
 
