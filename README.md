@@ -3,10 +3,10 @@
 - 📨 **Contact:** *paulocardoso64h@gmail.com*
 - 😄 **Pronouns:** *He/him. Ele/dele.*
 
-<a href="https://github.com/paulosnp/github-readme-stats">
+<a href="https://github.com/paulosnp/Studies">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=paulosnp&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/paulosnp/convoychat">
+<a href="https://github.com/paulosnp/Studies">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosnp&layout=compact&theme=transparent" />
 </a>
 
