@@ -28,7 +28,7 @@
 
 <div>
   <hr/>
-  <h3 align="center"> Leaguages </h3>
+  <h3 align="center"> Languages </h3>
   <div align="center">
   <img align="center" alt="Emerson-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   </div>  
