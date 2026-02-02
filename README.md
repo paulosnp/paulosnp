@@ -1,43 +1,36 @@
-## What's up! I'm Paulo😎
+<h1 align="center">Hi 👋, I'm Paulo</h1>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<div align="center">
- 
-☕ **I’m currently learning java.**</h1>
+- 🔭 I’m currently working on [Lotus Watcher](https://github.com/paulosnp/lotus-watcher)
 
-📨 **Contact:** *paulocardoso64h@gmail.com*
+- 🌱 I’m currently learning **springboot,angular**
 
-</div>
+- 📫 How to reach me **paulocardoso64h@gmail.com**
 
-<div align="center">
-  
-  <a href="https://instagram.com/paulo.snp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulocardoso64h@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/paulosnp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/paulosnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulosnp" height="30" width="40" /></a>
+<a href="https://instagram.com/paulo.snp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paulo.snp" height="30" width="40" /></a>
+</p>
 
-</div>
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
 
-
-<div align="center">
-<a href="https://github.com/paulosnp/Studies">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=paulosnp&show_icons=true&theme=outrun" />
-</a>
-<a href="https://github.com/paulosnp/Studies">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulosnp&layout=compact&theme=outrun" />
-</a>
-</div>
-
-<div>
-  <hr/>
-  <h3 align="center"> Languages </h3>
-  <div align="center">
-  <img align="center" alt="Emerson-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="TypeScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="PostgreSQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Spring" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  </div>  
-</div>
-
+<h3 align="left">Tools and Frameworks:</h3>
+<p align="left"> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+</p>
 
 ##
 <div align="center">
@@ -49,4 +42,3 @@
 <div align="center">
   <img alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ0YXQxbGVmMWJlOThoNnhzOWRtNGQ4bG9lY3hjY2Y0dGZwa2N5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif">
 </div>
-
