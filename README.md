@@ -1,44 +1,53 @@
-<h1 align="center">Hi 👋, I'm Paulo</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h1 align="center">Paulo Cardoso 👋</h1>
 
-- 🔭 I'm currently working on [Lotus Watcher](https://github.com/paulosnp/lotus-watcher)
-
-- 🌱 I'm currently learning **springboot,angular**
-
-- 📫 How to reach me **paulocardoso64h@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paulosnp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="paulosnp" /></a>
-<a href="https://instagram.com/paulo.snp" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="paulo.snp" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,prisma,mysql,git,docker&amp;perline=5" alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Node.js, Prisma, MySQL, Git, and Docker" />
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
+## English
+
+I'm a full-stack developer in Brazil. I build web applications and developer tools.
+
+### About me
+
+My recent work spans web interfaces, APIs, and data workflows built with **Next.js**, **React**, **TypeScript**, and **Fastify**. I also create tools that make everyday development tasks easier.
+
+### Tech stack
+
+- **Languages:** TypeScript, JavaScript
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend & data:** Node.js, Fastify, Prisma, MySQL
+- **Tools:** Git, Docker, Playwright
+
+### Projects
+
+- **[Cynops Tools](https://github.com/paulosnp/cynops-tools)** — Web utilities for working with images, SVGs, and QR codes.
+- **[Caveman Commit](https://github.com/paulosnp/auto-commit-plugin)** — A VS Code extension that generates commit messages with Codex CLI or Claude Code CLI.
+
+## Português
+
+Sou desenvolvedor full stack no Brasil. Crio aplicações web e ferramentas para desenvolvedores.
+
+### Sobre mim
+
+Minha atuação recente envolve interfaces web, APIs e fluxos de dados desenvolvidos com **Next.js**, **React**, **TypeScript** e **Fastify**. Também crio ferramentas que facilitam tarefas do dia a dia de desenvolvimento.
+
+### Tecnologias
+
+- **Linguagens:** TypeScript, JavaScript
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend e dados:** Node.js, Fastify, Prisma, MySQL
+- **Ferramentas:** Git, Docker, Playwright
+
+### Projetos
+
+- **[Cynops Tools](https://github.com/paulosnp/cynops-tools)** — Utilitários web para trabalhar com imagens, SVGs e QR codes.
+- **[Caveman Commit](https://github.com/paulosnp/auto-commit-plugin)** — Extensão para VS Code que gera mensagens de commit com Codex CLI ou Claude Code CLI.
+
+## Connect / Contato
+
+[LinkedIn](https://linkedin.com/in/paulosnp) · [Email / E-mail](mailto:paulocardoso64h@gmail.com)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contributions / Animação das minhas contribuições no GitHub" />
 </p>
-
-<h3 align="left">Tools and Frameworks:</h3>
-<p align="left">
-<a href="https://angular.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
-</p>
-
-##
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
-
-<div align="center">
-  <img alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ0YXQxbGVmMWJlOThoNnhzOWRtNGQ4bG9lY3hjY2Y0dGZwa2N5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbAFrrDVGAvZu/giphy-downsized-large.gif">
-</div>
