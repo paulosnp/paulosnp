@@ -48,6 +48,12 @@ Minha atuação recente envolve interfaces web, APIs e fluxos de dados desenvolv
 
 [LinkedIn](https://linkedin.com/in/paulosnp) · [Email / E-mail](mailto:paulocardoso64h@gmail.com)
 
+## Contributions / Contribuições
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contributions / Animação das minhas contribuições no GitHub" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contributions / Animação das minhas contribuições no GitHub" />
+  </picture>
 </p>
