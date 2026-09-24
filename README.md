@@ -50,10 +50,20 @@ Minha atuação recente envolve interfaces web, APIs e fluxos de dados desenvolv
 
 ## Contributions / Contribuições
 
+<!-- Snake animation kept hidden for later use.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/paulosnp/paulosnp/output/github-contribution-grid-snake.svg" alt="Snake animation of my GitHub contributions / Animação das minhas contribuições no GitHub" />
+  </picture>
+</p>
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/bomberman-contribution-graph.svg" />
+    <img src="assets/bomberman-contribution-graph.svg" alt="Bomberman contribution graph / Gráfico de contribuições do Bomberman" />
   </picture>
 </p>

@@ -1,0 +1,56 @@
+name: Generate Bomberman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+          package-manager-cache: false
+
+      - name: Generate Bomberman contribution graphs
+        run: |
+          mkdir -p dist
+          npx --yes pacman-contribution-graph@5.3.1 --platform github --username "$GITHUB_REPOSITORY_OWNER" --game bomberman --gameTheme github --output dist/bomberman-contribution-graph.svg
+          npx --yes pacman-contribution-graph@5.3.1 --platform github --username "$GITHUB_REPOSITORY_OWNER" --game bomberman --gameTheme github-dark --output dist/bomberman-contribution-graph-dark.svg
+
+      - name: Verify generated SVGs
+        run: |
+          test -s dist/bomberman-contribution-graph.svg
+          test -s dist/bomberman-contribution-graph-dark.svg
+
+      - name: Update README assets
+        run: |
+          mkdir -p assets
+          cp dist/bomberman-contribution-graph.svg assets/
+          cp dist/bomberman-contribution-graph-dark.svg assets/
+          git add assets/bomberman-contribution-graph.svg assets/bomberman-contribution-graph-dark.svg
+          if ! git diff --cached --quiet; then
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update Bomberman contribution graphs'
+            git push origin HEAD:main
+          fi
+
+      - name: Publish Bomberman contribution graphs
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+          commit_message: Update Bomberman contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
