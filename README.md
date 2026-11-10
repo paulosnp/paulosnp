@@ -1,4 +1,4 @@
-<h1 align="center">Paulo Cardoso 👋</h1>
+<h1 align="center">Paulo Cardoso</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,prisma,mysql,git,docker&amp;perline=5" alt="TypeScript, JavaScript, Next.js, React, Tailwind CSS, Node.js, Prisma, MySQL, Git, and Docker" />
